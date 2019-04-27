@@ -1,0 +1,35 @@
+a {
+  color: #4ECBC3;
+}
+
+body {
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  background-color: black;
+  color: #4ECBC3;
+}
+
+h1 {
+  color: #4ECBC3;
+}
+
+hr {
+  color: #4ECBC3;
+  size: 3;
+}
+
+p {
+  color: #4ECBC3;
+}
+
+.body {
+  height: 450px;
+}
+
+.footer {
+  margin-bottom: 0;
+  text-align: center;
+  color: #4ECBC3;
+  height: 60px
+}
