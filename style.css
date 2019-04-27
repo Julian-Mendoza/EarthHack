@@ -10,13 +10,18 @@ body {
   color: #4ECBC3;
 }
 
+li {
+  font-size: 1.25rem;
+}
+
 p {
   color: #4ECBC3;
   font-size: 1rem;
 }
-.aboutUs
+
+h2
 {
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 
 .body {
