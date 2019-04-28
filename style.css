@@ -25,13 +25,8 @@ h2
 }
 .graph
 {
-height: 20rem;
+width: 25rem;
 border-radius: 10%;
-}
-.explain
-{
-  vertical-align: middle;
-  text-align: center;
 }
 
 .body {
