@@ -1,5 +1,5 @@
 a {
-  color: #4ECBC3;
+  color: #4BC1B6;
 }
 
 body {
@@ -7,7 +7,7 @@ body {
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
   background-color: black;
-  color: #4ECBC3;
+  color: #4BC1B6;
 }
 
 li {
@@ -15,7 +15,7 @@ li {
 }
 
 p {
-  color: #4ECBC3;
+  color: #4BC1B6;
   font-size: 1rem;
 }
 
@@ -42,5 +42,5 @@ font-size: 3rem;
 .footer {
   margin-bottom: 0;
   text-align: center;
-  color: #4ECBC3;
+  color: #4BC1B6;
 }
