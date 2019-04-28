@@ -23,6 +23,16 @@ h2
 {
   font-size: 1.25rem;
 }
+.graph
+{
+height: 20rem;
+border-radius: 10%;
+}
+.explain
+{
+  vertical-align: middle;
+  text-align: center;
+}
 
 .body {
 font-size: 3rem;
