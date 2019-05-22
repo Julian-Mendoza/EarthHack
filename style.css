@@ -19,22 +19,21 @@ p {
   font-size: 1rem;
 }
 
-h2
-{
+h2 {
   font-size: 1.25rem;
 }
-.graph
-{
-width: 25rem;
-border-radius: 10%;
+
+.graph {
+  width: 25rem;
+  border-radius: 10%;
+  margin-top: 5rem;
 }
 
 .body {
-font-size: 3rem;
+  font-size: 3rem;
 }
 
-.profilePic
-{
+.profilePic {
   height: 20rem;
   border-radius: 100%;
 }
@@ -43,4 +42,24 @@ font-size: 3rem;
   margin-bottom: 0;
   text-align: center;
   color: #4BC1B6;
+}
+
+.carousel {
+  height: 37.5rem;
+}
+
+.carousel-inner {
+  width: 70%;
+  position: relative;
+  left: 15.5%;
+}
+
+.car-p {
+  margin-top: 5rem;
+}
+
+@media screen and (max-width: 900px) {
+  .aboutUs {
+    font-size: 2.5rem;
+  }
 }
