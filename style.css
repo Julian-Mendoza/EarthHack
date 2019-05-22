@@ -56,10 +56,12 @@ h2 {
 
 .car-p {
   margin-top: 5rem;
+  font-size: 1.2rem;
 }
 
 .figures {
   color: #438782;
+  font-size: 1.1rem;
 }
 
 .footer-p {
@@ -72,7 +74,7 @@ margin-bottom: 0;
   }
 
   .car-p {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 
   .carousel-inner {
@@ -89,6 +91,10 @@ height: 1000px;
 
   .nav-link {
     font-size: 2.5rem;
+  }
+
+  .figures {
+    font-size: 2rem;
   }
 
   .footer-p {
